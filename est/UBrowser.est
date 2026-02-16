@@ -117,13 +117,13 @@ CloseName="&Cerrar Ventana"
 
 [UBrowserMainWindow]
 ; EN: WindowTitleString="Unreal Server Browser"
-WindowTitleString="Buscador de Servidores de Unreal"
+WindowTitleString="Explorador de Servidores de Unreal"
 
 [UBrowserRightClickMenu]
 ; EN: RefreshName="&Refresh All Servers"
 RefreshName="&Actualizar Todos los Servidores"
 ; EN: FavoritesName="Add to &Favorites"
-FavoritesName="Agregar a &Favoritos"
+FavoritesName="Añadir a &Favoritos"
 ; EN: RefreshServerName="&Ping This Server"
 RefreshServerName="&Consultar Este Servidor"
 ; EN: InfoName="&Server and Player Info"
